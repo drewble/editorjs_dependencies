@@ -4,6 +4,7 @@
     "description": "Provides dependencies libraries for 'editorjs' module.",
     "keywords": ["Drupal", "EditorJS", "dependencies"],
     "homepage": "https://github.com/batkor/editorjs_dependencies",
+    "license": ["MIT"],
     "authors": [
         {
             "name": "batkor",
