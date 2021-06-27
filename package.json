@@ -9,7 +9,7 @@
   "author": "batkor",
   "devDependencies": {
     "@batkor/code-lang": "https://github.com/batkor/editorjs-code-lang.git#1.0.3",
-    "@batkor/editorjs-dimage": "https://github.com/batkor/editorjs-dimage.git#1.0.10",
+    "@batkor/editorjs-dimage": "https://github.com/batkor/editorjs-dimage.git#1.0.11",
     "@batkor/editorjs-media-image": "https://github.com/batkor/editorjs-media-image.git#1.0.5",
     "@editorjs/checklist": "^1.3.0",
     "@editorjs/code": "^2.6.0",

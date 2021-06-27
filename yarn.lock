@@ -13,9 +13,9 @@
   version "1.0.3"
   resolved "https://github.com/batkor/editorjs-code-lang.git#dd783585724af33446c450c40797a7d2812a667b"
 
-"@batkor/editorjs-dimage@https://github.com/batkor/editorjs-dimage.git#1.0.10":
+"@batkor/editorjs-dimage@https://github.com/batkor/editorjs-dimage.git#1.0.11":
   version "1.0.1"
-  resolved "https://github.com/batkor/editorjs-dimage.git#d71216db3b5b5bffb069227454fec4199e30aa4b"
+  resolved "https://github.com/batkor/editorjs-dimage.git#803a138e36ab1a104c54602f49292b2922ca7bf5"
 
 "@batkor/editorjs-media-image@https://github.com/batkor/editorjs-media-image.git#1.0.5":
   version "1.4.0"
