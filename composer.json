@@ -1,15 +1,24 @@
 {
-    "name": "batkor/editorjs_dependencies",
-    "type": "drupal-library",
-    "description": "Provides dependencies libraries for 'editorjs' module.",
-    "keywords": ["Drupal", "EditorJS", "dependencies"],
-    "homepage": "https://github.com/batkor/editorjs_dependencies",
-    "license": ["MIT"],
-    "authors": [
-        {
-            "name": "batkor",
-            "email": "info@batkor.ru",
-            "homepage": "https://batkor.ru/"
-        }
-    ]
+  "name": "batkor/editorjs_dependencies",
+  "type": "drupal-library",
+  "description": "Provides dependencies libraries for 'editorjs' module.",
+  "keywords": [
+    "Drupal",
+    "EditorJS",
+    "dependencies"
+  ],
+  "homepage": "https://github.com/batkor/editorjs_dependencies",
+  "license": [
+    "MIT"
+  ],
+  "authors": [
+    {
+      "name": "batkor",
+      "email": "info@batkor.ru",
+      "homepage": "https://batkor.ru/"
+    }
+  ],
+  "require": {
+    "composer/installers": "~1.0 || ~2.0"
+  }
 }
